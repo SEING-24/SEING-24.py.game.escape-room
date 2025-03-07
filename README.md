@@ -2,7 +2,7 @@
 
 ## Descripción del proyecto
 
-El presente proyecto implementa el Juego 
+El presente proyecto implementa el Juego Escape Room
 
 # Trabajo en Equipo
 
